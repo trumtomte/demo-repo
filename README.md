@@ -1,3 +1,3 @@
 # demo-repo
 
-Här är en kort beskrivning av detta repository.
+Här är lite text som ska granskas via en Pull Request.
